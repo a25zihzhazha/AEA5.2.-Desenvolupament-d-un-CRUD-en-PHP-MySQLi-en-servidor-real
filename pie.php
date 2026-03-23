@@ -1,5 +1,6 @@
 </main>
 <footer class="px-2 py-2 fixed-bottom bg-dark">
+<p>hola</p>
         <span class="text-muted">CRUD de MySQLi con PHP creado por
             <a class="text-white" href="//parzibyte.me/blog">Parzibyte</a>
             &nbsp;|&nbsp;
